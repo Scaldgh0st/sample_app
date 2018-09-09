@@ -82,3 +82,117 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 675ms (Views: 664.7ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:19:21 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (10866.6ms)
+Completed 200 OK in 12067ms (Views: 11082.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:21:51 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 6602ms (Views: 6593.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:26:12 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (44.8ms)
+Completed 200 OK in 4943ms (Views: 4925.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:28:26 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 4670ms (Views: 4663.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:28:55 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 4460ms (Views: 4455.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:29:57 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 195ms (Views: 183.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:30:36 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 129ms (Views: 121.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-08 06:32:37 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 4978ms (Views: 4970.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:13:15 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1026.5ms)
+Completed 200 OK in 1717ms (Views: 1135.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:22:23 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (36.9ms)
+  Rendered layouts/_shim.html.erb (0.8ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (14.5ms)
+Completed 200 OK in 327ms (Views: 287.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:25:27 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_shim.html.erb (0.7ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 3796ms (Views: 3790.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:26:41 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.4ms)
+  Rendered layouts/_shim.html.erb (0.8ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 3608ms (Views: 3601.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:29:22 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.0ms)
+  Rendered layouts/_rails_default.html.erb (60.0ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.4ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 99ms (Views: 94.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-09 16:29:47 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.2ms)
+  Rendered layouts/_shim.html.erb (1.1ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 41ms (Views: 36.4ms)
+
+

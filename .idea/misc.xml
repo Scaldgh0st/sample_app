@@ -79,9 +79,6 @@
     </LinkMapSettings>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="rbenv: 2.5.1" project-jdk-type="RUBY_SDK" />
-  <component name="TerminalProjectOptionsProvider">
-    <option name="myStartingDirectory" value="!/Projects" />
-  </component>
   <component name="UnicodeBrowser">
     <option name="fontName" value="Fira Code" />
   </component>
