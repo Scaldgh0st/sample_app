@@ -516,3 +516,80 @@ Processing by StaticPagesController#home as HTML
 Completed 200 OK in 101ms (Views: 96.6ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-09-10 01:32:17 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+  Rendered layouts/_rails_default.html.erb (219.6ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (1.1ms)
+Completed 200 OK in 270ms (Views: 262.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-10 01:32:17 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.3ms)
+  Rendered layouts/_rails_default.html.erb (185.9ms)
+  Rendered layouts/_shim.html.erb (1.6ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 316ms (Views: 291.7ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2018-09-10 01:32:20 -0600
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_rails_default.html.erb (95.8ms)
+  Rendered layouts/_shim.html.erb (2.6ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (6.6ms)
+Completed 200 OK in 156ms (Views: 151.3ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2018-09-10 01:32:50 -0600
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_rails_default.html.erb (90.3ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 140ms (Views: 133.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-10 01:32:54 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.6ms)
+  Rendered layouts/_rails_default.html.erb (100.5ms)
+  Rendered layouts/_shim.html.erb (2.2ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (1.3ms)
+Completed 200 OK in 159ms (Views: 152.8ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2018-09-10 01:32:58 -0600
+Processing by UsersController#new as HTML
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_rails_default.html.erb (90.2ms)
+  Rendered layouts/_shim.html.erb (0.7ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 145ms (Views: 139.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-10 01:32:59 -0600
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.9ms)
+  Rendered layouts/_rails_default.html.erb (76.0ms)
+  Rendered layouts/_shim.html.erb (5.1ms)
+  Rendered layouts/_header.html.erb (6.6ms)
+  Rendered layouts/_footer.html.erb (9.2ms)
+Completed 200 OK in 159ms (Views: 153.7ms)
+
+
